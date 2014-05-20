@@ -1,17 +1,18 @@
 {
-	"66:66:b3:34:fa:b6" {
-		"name": "Trollhöhle",
+	"66:66:b3:34:fa:b6": {
+		"name": "Trollhöhle"
 	},
-	"ea:94:f6:41:47:b2" {
+	"ea:94:f6:41:47:b2": {
 		"name": "Strohi Node"
+	},
+	"0e:de:f1:64:6d:3c": {
+		"name": "Rainbownerds.de"
+	},
+	"62:6a:f8:f6:e9:df": {
+		"name": "Felixbreidenstein.de"
+	},
+	"52:06:be:08:4c:5e": {
+		"name": "linuxlounge.net"
 	}
-	"0e:de:f1:64:6d:3c" {
-		"name": "Rainbownerds.de",
-	},
-	"62:6a:f8:f6:e9:df" {
-		"name": "Felixbreidenstein.de",
-	},
-	"52:06:be:08:4c:5e" {
-		"name": "linuxlounge.net",
-	},
 }
+
