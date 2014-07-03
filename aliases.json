@@ -1,23 +1,30 @@
 {
-	"66:66:b3:34:fa:b6": {
-		"name": "Trollhöhle",
-		"gps": "49.879218 8.645186"
-	},
-	"ea:94:f6:41:47:b2": {
-		"name": "Strohi Node",
-		"gps": "49.879169 8.645468"
-	},
-	"0e:de:f1:64:6d:3c": {
-		"name": "Rainbownerds.de"
-	},
-	"da:d0:eb:64:e5:ee": {
-		"name": "Felixbreidenstein.de"
-	},
-	"3a:b7:b0:fc:bd:72": {
-		"name": "linuxlounge.net"
-	},
-	"6e:a9:9b:7a:3f:f9": {
-		"name": "iqtopia.de"
-	}
+        "66:66:b3:34:fa:b6": {
+                "name": "64293-cda_lounge",
+                "gps": "49.879218 8.645186"
+        },
+        "ea:94:f6:41:47:b2": {
+                "name": "64289-hochschulgruppenhaus",
+                "gps": "49.878099 8.654083"
+        },
+        "10:fe:ed:8a:64:ae": {
+                "name": "64295-luelistan",
+                "gps": "49.871673 8.641136"
+        },
+        "0e:de:f1:64:6d:3c": {
+                "name": "rainbownerds.de",
+                "vpn": true
+        },
+        "da:d0:eb:64:e5:ee": {
+                "name": "felixbreidenstein.de",
+                "vpn": true
+        },
+        "3a:b7:b0:fc:bd:72": {
+                "name": "linuxlounge.net",
+                "vpn": true
+        },
+        "6e:a9:9b:7a:3f:f9": {
+                "name": "iqtopia.de",
+                "vpn": true
+        }
 }
-
