@@ -1,16 +1,4 @@
 {
-        "66:66:b3:34:fa:b6": {
-                "name": "64293-cda_lounge",
-                "gps": "49.879218 8.645186"
-        },
-        "ea:94:f6:41:47:b2": {
-                "name": "64289-hochschulgruppenhaus",
-                "gps": "49.878099 8.654083"
-        },
-        "10:fe:ed:8a:64:ae": {
-                "name": "64295-luelistan",
-                "gps": "49.871673 8.641136"
-        },
         "0e:de:f1:64:6d:3c": {
                 "name": "rainbownerds.de",
                 "vpn": true
