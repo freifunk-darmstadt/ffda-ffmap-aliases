@@ -15,8 +15,8 @@
                 "name": "1.fastd.freifunk-darmstadt.de",
                 "vpn": true
         },
-	"16:b7:ca:8e:21:cb": {
-		"name": "hexa (desktop)",
+	"2e:08:b9:56:9b:2f": {
+		"name": "uwh-gw",
 		"vpn": true
-	}
+	},	
 }
