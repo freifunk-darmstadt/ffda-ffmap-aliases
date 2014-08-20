@@ -1,18 +1,18 @@
 {
 	"0e:de:f1:64:6d:3c": {
-			"name": "rainbownerds.de",
-			"vpn": true
+		"name": "gw02",
+		"vpn": true
 	},
 	"3a:b7:b0:fc:bd:72": {
-			"name": "linuxlounge.net",
-			"vpn": true
+		"name": "gw01",
+		"vpn": true
 	},
 	"12:d9:94:14:33:5c": {
-			"name": "1.fastd.freifunk-darmstadt.de",
-			"vpn": true
+		"name": "gw03e",
+		"vpn": true
 	},
 	"2e:08:b9:56:9b:2f": {
-		"name": "uwh-gw",
+		"name": "gw04",
 		"vpn": true
 	}
 }
